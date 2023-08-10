@@ -1,0 +1,15 @@
+C:\Users\Cassiano\Desktop\CSharpe\Projeto 1\ListaDeInteiros\ListaDeInteiros\obj\Debug\net7.0\ListaDeInteiros.csproj.AssemblyReference.cache
+C:\Users\Cassiano\Desktop\CSharpe\Projeto 1\ListaDeInteiros\ListaDeInteiros\obj\Debug\net7.0\ListaDeInteiros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cassiano\Desktop\CSharpe\Projeto 1\ListaDeInteiros\ListaDeInteiros\obj\Debug\net7.0\ListaDeInteiros.AssemblyInfoInputs.cache
+C:\Users\Cassiano\Desktop\CSharpe\Projeto 1\ListaDeInteiros\ListaDeInteiros\obj\Debug\net7.0\ListaDeInteiros.AssemblyInfo.cs
+C:\Users\Cassiano\Desktop\CSharpe\Projeto 1\ListaDeInteiros\ListaDeInteiros\obj\Debug\net7.0\ListaDeInteiros.csproj.CoreCompileInputs.cache
+C:\Users\Cassiano\Desktop\CSharpe\Projeto 1\ListaDeInteiros\ListaDeInteiros\bin\Debug\net7.0\ListaDeInteiros.exe
+C:\Users\Cassiano\Desktop\CSharpe\Projeto 1\ListaDeInteiros\ListaDeInteiros\bin\Debug\net7.0\ListaDeInteiros.deps.json
+C:\Users\Cassiano\Desktop\CSharpe\Projeto 1\ListaDeInteiros\ListaDeInteiros\bin\Debug\net7.0\ListaDeInteiros.runtimeconfig.json
+C:\Users\Cassiano\Desktop\CSharpe\Projeto 1\ListaDeInteiros\ListaDeInteiros\bin\Debug\net7.0\ListaDeInteiros.dll
+C:\Users\Cassiano\Desktop\CSharpe\Projeto 1\ListaDeInteiros\ListaDeInteiros\bin\Debug\net7.0\ListaDeInteiros.pdb
+C:\Users\Cassiano\Desktop\CSharpe\Projeto 1\ListaDeInteiros\ListaDeInteiros\obj\Debug\net7.0\ListaDeInteiros.dll
+C:\Users\Cassiano\Desktop\CSharpe\Projeto 1\ListaDeInteiros\ListaDeInteiros\obj\Debug\net7.0\refint\ListaDeInteiros.dll
+C:\Users\Cassiano\Desktop\CSharpe\Projeto 1\ListaDeInteiros\ListaDeInteiros\obj\Debug\net7.0\ListaDeInteiros.pdb
+C:\Users\Cassiano\Desktop\CSharpe\Projeto 1\ListaDeInteiros\ListaDeInteiros\obj\Debug\net7.0\ListaDeInteiros.genruntimeconfig.cache
+C:\Users\Cassiano\Desktop\CSharpe\Projeto 1\ListaDeInteiros\ListaDeInteiros\obj\Debug\net7.0\ref\ListaDeInteiros.dll
