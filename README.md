@@ -1,4 +1,4 @@
 # Linguagem C#
 
-. Lista de Exercícios 
-. Desafios
+- Lista de Exercícios
+- Desafios
