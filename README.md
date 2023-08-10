@@ -1,2 +1,3 @@
-# ExerciciosCSharp
-Lista de Exercícios com a Linguagem CSharp
+# Linguagem C#
+
+. Lista de Exercícios 
